@@ -36,7 +36,7 @@ export default function Home() {
         <div className="compact-intro"><span>ABOUT / 關於我</span><h2 id="info-title">用節奏整理畫面，<br />用影像留下感覺。</h2></div>
         <dl className="info-cards">
           <div><dt>AGE</dt><dd>22</dd></div>
-          <div><dt>EDUCATION</dt><dd>國立高雄科技大學</dd></div>
+          <div><dt>EDUCATION</dt><dd>國立高雄科技大學｜大學畢業</dd></div>
           <div><dt>PHONE</dt><dd><a href="tel:0906998113">0906 998 113</a></dd></div>
           <div><dt>E-MAIL</dt><dd><a href="mailto:dingchen0525@gmail.com">dingchen0525@gmail.com</a></dd></div>
         </dl>
